@@ -84,6 +84,14 @@
                 <category android:name="com.chillingvan.instantvideo.sample"/>
             </intent-filter>
         </activity>
+        <activity android:name=".test.publisher.ScreenPublisherActivity"
+            android:label="ScreenPublisherActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="com.chillingvan.instantvideo.sample"/>
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

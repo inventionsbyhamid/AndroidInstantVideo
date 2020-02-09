@@ -21,4 +21,7 @@
 <resources>
     <string name="app_name">InstantVideo</string>
     <string name="permission_tips">permission needed..╮(╯▽╰)╭</string>
+    <string name="user_cancelled">User Cancelled</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
 </resources>
